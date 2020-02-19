@@ -1,0 +1,22 @@
+{
+  "name": "react_es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo Hello World!",
+    "build": "mkdir build",
+    "remove": "rmdir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/react_es.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/react_es/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/react_es#readme"
+}
